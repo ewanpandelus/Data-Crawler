@@ -44,7 +44,6 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
-keys.txt
 nosetests.xml
 coverage.xml
 *.cover
@@ -113,6 +112,8 @@ venv.bak/
 
 # Spyder project settings
 .spyderproject
+
+
 .spyproject
 
 # Rope project settings
@@ -128,3 +129,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Folders
+.vscode
+
+#Extra files
+keys.txt
+keys.json
